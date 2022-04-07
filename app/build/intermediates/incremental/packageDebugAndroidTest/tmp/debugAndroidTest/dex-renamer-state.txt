@@ -1,0 +1,7 @@
+#Thu Apr 07 11:19:59 WIB 2022
+base.1=/Users/blint/AndroidStudioProjects/android-basics-kotlin-dogglers-app/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+base.0=/Users/blint/AndroidStudioProjects/android-basics-kotlin-dogglers-app/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
